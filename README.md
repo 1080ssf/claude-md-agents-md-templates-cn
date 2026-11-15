@@ -53,6 +53,9 @@ cp templates/general.md 你的项目/AGENTS.md
 这些模板与模型无关。想用 DeepSeek、GLM、Kimi 等第三方 API 跑 Claude Code / Codex，配置方法见姊妹项目：
 👉 [claude-code-codex-api-config-cn](https://github.com/1080ssf/claude-code-codex-api-config-cn)
 
+选模型前想先比较价格？全球大模型 API 官方价格汇总：
+👉 [llm-api-pricing](https://github.com/1080ssf/llm-api-pricing)
+
 示例服务商：[Imagio](https://imagio.site)（DeepSeek / GLM / Kimi，OpenAI 与 Anthropic 协议兼容）。
 
 ## 交流群
